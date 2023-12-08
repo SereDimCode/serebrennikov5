@@ -1,0 +1,9 @@
+
+# Sister
+# Mom
+@choice "Give the banana to mom" set:isBadSister=true
+@choice "Give the banana to sister" set:isBadMom=true
+@choice "My preference lay on the meaning of life of this banana, if not my choice, then it will never grow up" set:isBadMom="true";isBadSister="true"
+@stop
+@adventure
+@stop

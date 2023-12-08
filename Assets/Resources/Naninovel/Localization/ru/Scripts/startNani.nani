@@ -1,0 +1,17 @@
+; English <en> to Russian <ru> localization document for `startNani` naninovel script
+
+# b6a65b7b
+; @input name summary:"Enter your name."
+@input name summary:"Введите имя."
+
+# 2a4f507a
+; Mom: {name}, hi my sweetie boy
+Mom: {name}, привет мой милый сыночек
+
+# 7c2f82f3
+; Mom: can you please help your sister with a banana?
+Mom: не мог бы ты помочь своей сестре с бананом?
+
+# a1feae98
+; {name}: bulbulbul
+{name}: бульбульбуль

@@ -1,0 +1,25 @@
+; English <en> to Russian <ru> localization document for `sisterNani` naninovel script
+
+# b13a20ad
+; Sister: Hi {name}, I'll play with you, but you promise to never give the banana to your mom
+Sister: Привет {name}, Я сыграю с тобой, но ты пообещаешь мне, что никогда не отдашь банан маме
+
+# 935cfadf
+; Sister: you have no idea what she is going to do with it
+Sister: ты понятия не имеешь что она с ним сделает
+
+# 8f7a0b67
+; Sister: this is not an ordinary banana and the consequences can be extremely severe
+Sister: это не обычный банан и последствия могут быть крайне печальны
+
+# 5bdd7042
+; {name}: I love banananas
+{name}: Я люблю банананы
+
+# 4452b006
+; Sister: NO! It's not usual banana, just give me it and I will play with you in something else
+Sister: НЕТ! Это не простой банан, просто отдай мне и я сыграю с тобой в кое-что другое
+
+# c03a7e5d
+; Sister: I will be next to mom
+Sister: Я буду возле мамы

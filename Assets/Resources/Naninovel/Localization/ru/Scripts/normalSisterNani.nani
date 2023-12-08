@@ -1,0 +1,5 @@
+; English <en> to Russian <ru> localization document for `normalSisterNani` naninovel script
+
+# c1311ac7
+; Sister: hi brother {name}
+Sister: привет братик {name}

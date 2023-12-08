@@ -1,0 +1,10 @@
+@back map
+@input name summary:"Enter your name."
+@stop
+@char Mom look:left
+Mom: {name}, hi my sweetie boy
+Mom: can you please help your sister with a banana?
+@char Boy look:right
+{name}: bulbulbul
+@adventure
+@stop

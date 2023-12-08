@@ -1,0 +1,6 @@
+
+# Mom
+@char Mom
+Mom: hi son {name}
+@adventure
+@stop

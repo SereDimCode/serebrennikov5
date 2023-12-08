@@ -1,0 +1,13 @@
+; English <en> to Russian <ru> localization document for `lastSpeachNani` naninovel script
+
+# 1055fd8a
+; @choice "Give the banana to mom" set:isBadSister=true
+@choice "Отдать банан матери" set:isBadSister=true
+
+# 2ff4032f
+; @choice "Give the banana to sister" set:isBadMom=true
+@choice "Отдать банан сестре" set:isBadMom=true
+
+# ac791471
+; @choice "My preference lay on the meaning of life of this banana, if not my choice, then it will never grow up" set:isBadMom="true";isBadSister="true"
+@choice "Моё предпочтение лягло на смысл жизни этого банана, если не мой выбор, то он никогда не варостет" set:isBadMom="true";isBadSister="true"

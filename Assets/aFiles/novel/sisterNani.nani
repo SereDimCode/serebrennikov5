@@ -1,0 +1,16 @@
+# Sister
+@char Sister look:left
+Sister: Hi {name}, I'll play with you, but you promise to never give the banana to your mom
+Sister: you have no idea what she is going to do with it
+Sister: this is not an ordinary banana and the consequences can be extremely severe
+@char Boy look:right
+{name}: I love banananas
+
+@char Sister look:left
+Sister: NO! It's not usual banana, just give me it and I will play with you in something else
+@miniGameCommandAdd
+@wait 10.0
+@miniGameCommandRemove
+Sister: I will be next to mom
+@adventure
+@stop
